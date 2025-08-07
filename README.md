@@ -4,7 +4,7 @@
 
 # Validação de Hipóteses no Contexto Musical
 
-### Equipe: Maria Eduarda Carvalho e Wellen Mariah Lisboa
+### Equipe: Maria Eduarda Carvalho e Mariah Lisboa
 ### Maio/2025
 
 ## Contexto
