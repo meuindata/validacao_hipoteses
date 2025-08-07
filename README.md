@@ -32,8 +32,8 @@ e Deezer, determinando os fatores que contribuem para o sucesso de uma música.
   <br>
   
 - **BigQuery (utilizando SQL)**
-- **PowerBI (foi utilizado Python)**
-- **Google Colab (foi utilizado Python)**
+- **PowerBI (foi utilizado Python para cosntrução de gráficos)**
+- **Google Colab (foi utilizado Python para aplicação dos testes estatísticos)**
 - **Notion (gerenciamento de tempo e progresso)**
 - **Google Documentos (montagem da ficha técnica)**
   <br>
